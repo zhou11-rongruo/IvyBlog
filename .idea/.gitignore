@@ -6,3 +6,12 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/compiler.xml
+/encodings.xml
+/IvyBlog.iml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/runConfigurations.xml
+/vcs.xml
+
